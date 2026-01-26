@@ -1,8 +1,11 @@
 # NEXUSFLOW SAAS TEMPLATE
 ----------------
 Version: 1.0.0
+
 Author: High Dee Dev
+
 License: Commercial (Single Use)
+
 Support: high.dee.dev@gmail.com
 
 ## OVERVIEW
